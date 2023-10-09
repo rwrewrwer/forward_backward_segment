@@ -1,1 +1,1 @@
-# forward_backward_segment
+# 中文正向與反向分詞
